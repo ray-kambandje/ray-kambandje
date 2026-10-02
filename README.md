@@ -75,7 +75,8 @@
 
 ## 📫 Me contacter
 
-- Organisation : [JOSAR Technology](https://github.com/JOSAR-TECHNOLOGY)
+- 📧 E-mail : [raykambandje@groupjosar.com](mailto:raykambandje@groupjosar.com)
+- 🏢 Organisation : [JOSAR Technology](https://github.com/JOSAR-TECHNOLOGY)
 - Ouvert aux collaborations sur des projets numériques en Afrique centrale et australe.
 
 ---
