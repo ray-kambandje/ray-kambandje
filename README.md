@@ -67,11 +67,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 💡 Ma façon de travailler
-
-- **Contrat d'API d'abord** : spécification OpenAPI comme source de vérité, clients et validations générés automatiquement.
-- **Monorepos pnpm** : web, mobile, admin et API partagent les mêmes types de bout en bout.
-- **Conçu pour le contexte local** : interfaces en français, tarifs en CDF/USD, applications légères pour téléphones et connexions limitées.
 
 ## 📫 Me contacter
 
