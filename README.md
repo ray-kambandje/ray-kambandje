@@ -75,6 +75,7 @@
 
 ## 📫 Me contacter
 
+- 💼 LinkedIn : [linkedin.com/in/ray-kambandje](https://www.linkedin.com/in/ray-kambandje)
 - 📧 E-mail : [raykambandje@groupjosar.com](mailto:raykambandje@groupjosar.com)
 - 🏢 Organisation : [JOSAR Technology](https://github.com/JOSAR-TECHNOLOGY)
 - Ouvert aux collaborations sur des projets numériques en Afrique centrale et australe.
