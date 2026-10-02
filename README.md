@@ -67,6 +67,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ray-kambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs%2Cissues%2Ccontribs&bg_color=0D1117&title_color=F85149&icon_color=F85149&text_color=C9D1D9&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ray-kambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs%2Cissues%2Ccontribs&bg_color=FFFFFF&title_color=990000&icon_color=990000&text_color=24292F&hide_border=true" alt="Statistiques GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ray-kambandje&locale=fr&background=0D1117&ring=F85149&fire=F85149&currStrkNum=F85149&sideNums=C9D1D9&currStrkLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_border=true" />
+    <img height="170" src="https://streak-stats.demolab.com?user=ray-kambandje&locale=fr&background=FFFFFF&ring=990000&fire=990000&currStrkNum=990000&sideNums=24292F&currStrkLabel=24292F&sideLabels=24292F&dates=57606A&stroke=D0D7DE&hide_border=true" alt="Série de contributions" />
+  </picture>
+</p>
 
 ## 📫 Me contacter
 
