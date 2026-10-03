@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Afrique_du_Sud_·_RDC-990000?style=flat-square" alt="Localisation"/>
-  <img src="https://img.shields.io/badge/🗣️-Français_·_English-222222?style=flat-square" alt="Langues"/>
+  <img src="https://img.shields.io/badge/📍-_RDC-990000?style=flat-square" alt="Localisation"/>
+  <img src="https://img.shields.io/badge/🗣️-Français_-222222?style=flat-square" alt="Langues"/>
 </p>
 
 ---
